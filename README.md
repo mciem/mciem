@@ -5,7 +5,7 @@ class mciem:
         nationality = "Polish"
         languages = ["Polish", "English", "German"]
 
-        programming_languages = ["Python", "Golang", "Javascript", "C++"]
+        programing_languages = ["Python", "Golang", "Javascript", "C++"]
         projects = ["mTG", "Hcaptcha AI solver", "Discord token joiner", "Disboard invite scraper", "..."]
 
         website = "mciem.uno"
