@@ -1,6 +1,6 @@
 ```python
 class mciem:
-    def __repr__() -> str:        
+    def __init__():        
         age = 14
         nationality = "Polish"
         languages = ["Polish", "English", "German"]
