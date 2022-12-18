@@ -11,7 +11,7 @@ class mciem:
         website = "mciem.uno"
         discord = {
             "username": "mciem#9172",
-            "server": "discord.gg/h2AMKcbGgJ"
+            "server": "discord.gg/hcap"
         }
         telegram = "t.me/fuckdiscord1"
 ```
