@@ -1,7 +1,7 @@
 ```python
 class mciem:
     def __init__():        
-        age = 14
+        age = 15
         nationality = "Polish"
         languages = ["Polish", "English", "German"]
 
